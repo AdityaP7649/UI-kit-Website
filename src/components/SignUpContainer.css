@@ -63,7 +63,19 @@
   width: 362px;
   height: 362px;
   object-fit: cover;
+  animation: moveLeftAndRight 4s linear infinite;
 }
+
+@keyframes moveLeftAndRight {
+  0%, 100% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(10%);
+  }
+}
+
+
 .helix2-1-icon1 {
   position: absolute;
   top: -1px;
@@ -75,7 +87,19 @@
   left: 1399.5px;
   width: 363px;
   height: 363px;
+  animation: moveLeftAndRight 4s linear infinite;
 }
+
+@keyframes moveLeftAndRight {
+  0%, 100% {
+    transform: translateX(10%);
+  }
+  50% {
+    transform: translateX(0);
+  }
+}
+
+
 .sign-up2 {
   width: 1921px;
   position: relative;

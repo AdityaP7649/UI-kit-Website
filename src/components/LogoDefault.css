@@ -5,6 +5,11 @@
   right: 0;
   left: 0;
 }
+
+.logosaas-icon:hover{
+  cursor: pointer;
+}
+
 .logodefault-child {
   height: 80.49%;
   top: 14.63%;

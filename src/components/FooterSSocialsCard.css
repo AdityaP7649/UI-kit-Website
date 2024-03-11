@@ -3,7 +3,19 @@
   position: relative;
   height: 329px;
   object-fit: cover;
+  animation: rotate360 30s infinite linear;
 }
+
+@keyframes rotate360 {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
 .h210 {
   position: relative;
   letter-spacing: -0.04em;

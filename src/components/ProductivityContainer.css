@@ -71,6 +71,7 @@
   width: 624px;
   height: 584px;
   object-fit: contain;
+  animation: moveUpDown 2s infinite alternate;
 }
 .rectangle-container {
   position: absolute;
@@ -89,4 +90,13 @@
   font-size: var(--h1-size);
   color: var(--color-midnightblue);
   font-family: var(--h2);
+}
+
+@keyframes moveUpDown {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-20px); 
+  }
 }

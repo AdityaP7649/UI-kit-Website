@@ -9,6 +9,11 @@
   overflow: hidden;
   flex-shrink: 0;
 }
+
+.icons48:hover{
+  cursor: pointer;
+}
+
 .ctano-background1 {
   border-radius: var(--br-3xs);
   display: flex;
