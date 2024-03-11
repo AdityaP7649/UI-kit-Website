@@ -1,0 +1,50 @@
+.cube-helix-1-icon {
+  width: 329px;
+  position: relative;
+  height: 329px;
+  object-fit: cover;
+}
+.h210 {
+  position: relative;
+  letter-spacing: -0.04em;
+  line-height: 60px;
+  background: linear-gradient(180deg, #000, #001354);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.enhance-your-productivity {
+  margin: 0;
+}
+.body10 {
+  width: 345px;
+  position: relative;
+  font-size: var(--body-medium-size);
+  letter-spacing: -0.01em;
+  line-height: 23px;
+  font-family: var(--body-s-bold);
+  display: inline-block;
+  height: 69px;
+  flex-shrink: 0;
+}
+.footer-ssocialscard,
+.h2-parent6 {
+  width: 385px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-ssocialscard {
+  width: 486px;
+  border-radius: var(--br-xl);
+  box-shadow: 0 7px 24px #24272b;
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  overflow: hidden;
+  justify-content: center;
+  padding: var(--padding-21xl);
+  text-align: center;
+  font-size: var(--h4-size);
+  color: var(--color-midnightblue);
+  font-family: var(--h2);
+}

@@ -1,0 +1,24 @@
+.get-for-free3 {
+  position: relative;
+  font-weight: 500;
+}
+.icons48 {
+  width: 20px;
+  position: relative;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ctano-background1 {
+  border-radius: var(--br-3xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) 0;
+  gap: 0 4px;
+  text-align: left;
+  font-size: var(--body-medium-size);
+  color: var(--color-black);
+  font-family: var(--font-satoshi);
+}

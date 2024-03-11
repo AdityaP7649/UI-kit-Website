@@ -1,0 +1,7 @@
+.logo-ticker3 {
+  width: 1200px;
+  position: relative;
+  height: 132px;
+  overflow: hidden;
+  flex-shrink: 0;
+}

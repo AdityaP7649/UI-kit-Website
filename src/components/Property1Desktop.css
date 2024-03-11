@@ -1,0 +1,87 @@
+.effortlessly-turn-your1 {
+  width: 240px;
+  position: relative;
+  display: inline-block;
+}
+.logodefault-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px 0;
+}
+.socials-icon6 {
+  position: absolute;
+  top: 0;
+  left: 35px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.socials-icon10,
+.socials-icon11,
+.socials-icon7,
+.socials-icon8,
+.socials-icon9 {
+  position: absolute;
+  top: 0;
+  left: 175px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.socials-icon10,
+.socials-icon11,
+.socials-icon8,
+.socials-icon9 {
+  left: 105px;
+}
+.socials-icon10,
+.socials-icon11,
+.socials-icon9 {
+  left: 140px;
+}
+.socials-icon10,
+.socials-icon11 {
+  left: 70px;
+}
+.socials-icon11 {
+  left: 0;
+}
+.logo-group1 {
+  width: 199px;
+  position: relative;
+  height: 24px;
+}
+.frame-parent16 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 111px 0;
+}
+.product5 {
+  color: var(--neutral-100);
+}
+.features2,
+.product5 {
+  position: relative;
+}
+.product-group,
+.property-1desktop {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 48px;
+  color: var(--color-gray-100);
+}
+.property-1desktop {
+  background-color: var(--color-black);
+  padding: var(--padding-21xl) var(--padding-xl);
+  gap: 0 512px;
+  text-align: left;
+  font-size: var(--body-s-bold-size);
+  color: var(--color-silver);
+  font-family: var(--body-s-bold);
+}

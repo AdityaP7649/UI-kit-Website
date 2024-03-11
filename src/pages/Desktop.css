@@ -1,0 +1,60 @@
+.h2 {
+  width: 540px;
+  position: relative;
+  letter-spacing: -0.06em;
+  line-height: 60px;
+  display: inline-block;
+  background: linear-gradient(180deg, #000, #001354);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  height: 61px;
+  flex-shrink: 0;
+}
+.h2-wrapper,
+.tag-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tag-parent {
+  position: absolute;
+  top: 59px;
+  left: calc(50% - 270px);
+  gap: 20px 0;
+}
+.testimonials-child {
+  position: absolute;
+  top: 178px;
+  left: 0;
+  background: linear-gradient(180deg, #fff, rgba(255, 255, 255, 0));
+  width: 1436px;
+  height: 786px;
+}
+.testimonials {
+  width: 1436px;
+  position: relative;
+  height: 1055px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.desktop,
+.stack {
+  width: 1436px;
+  height: 6604px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.desktop {
+  width: 100%;
+  position: relative;
+  background-color: var(--neutral-100);
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+  text-align: center;
+  font-size: var(--h2-size);
+  font-family: var(--h2);
+}

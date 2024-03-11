@@ -1,0 +1,22 @@
+.made-by {
+  position: relative;
+}
+.black-horizontal-1-icon {
+  width: 68px;
+  position: relative;
+  height: 22px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.property-1default1 {
+  margin-right: 200px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 0 8px;
+  text-align: left;
+  font-size: var(--body-s-bold-size);
+  color: var(--color-black);
+  font-family: var(--body-s-bold);
+}

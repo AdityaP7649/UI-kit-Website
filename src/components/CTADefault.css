@@ -1,0 +1,17 @@
+.get-for-free4 {
+  position: relative;
+  font-weight: 500;
+}
+.ctadefault {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-black);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-mini);
+  text-align: left;
+  font-size: var(--body-medium-size);
+  color: var(--neutral-100);
+  font-family: var(--font-satoshi);
+}

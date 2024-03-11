@@ -1,0 +1,54 @@
+.as-a-seasoned {
+  width: 245px;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 23px;
+  display: inline-block;
+}
+.frame-child {
+  width: 42px;
+  position: relative;
+  border-radius: 50%;
+  height: 42px;
+  object-fit: cover;
+}
+.alex-rivera {
+  position: relative;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+}
+.jamietechguru00 {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 23px;
+}
+.alex-rivera-parent,
+.ellipse-parent,
+.testimonial {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.ellipse-parent,
+.testimonial {
+  flex-direction: row;
+  align-items: center;
+  gap: 0 8px;
+  text-align: center;
+}
+.testimonial {
+  border-radius: var(--br-xl);
+  background-color: var(--neutral-100);
+  box-shadow: 0 7px 14px #eaeaea;
+  border: 1px solid var(--color-whitesmoke);
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-21xl);
+  gap: 20px 0;
+  text-align: left;
+  font-size: var(--body-medium-size);
+  color: var(--color-black);
+  font-family: var(--body-s-bold);
+  margin-left: 130px;
+}
