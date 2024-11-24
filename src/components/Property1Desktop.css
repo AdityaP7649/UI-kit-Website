@@ -4,6 +4,7 @@
   display: inline-block;
 }
 .logodefault-group {
+  margin-left: 50px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;

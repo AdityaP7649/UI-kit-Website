@@ -35,14 +35,6 @@ const Property1Desktop = ({
             no-code SaaS website.
           </div>
         </div>
-        <div className="logo-group1">
-          <img className="socials-icon6" alt="" src="/socials.svg" />
-          <img className="socials-icon7" alt="" src="/socials1.svg" />
-          <img className="socials-icon8" alt="" src="/socials2.svg" />
-          <img className="socials-icon9" alt="" src="/socials3.svg" />
-          <img className="socials-icon10" alt="" src="/socials4.svg" />
-          <img className="socials-icon11" alt="" src="/socials5.svg" />
-        </div>
       </div>
       <div className="product-group">
         <div className="logodefault-group">
